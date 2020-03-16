@@ -2,7 +2,7 @@
 # PHP Notları
 
 
-Phpde büyük küçük harf önemi yoktur. Değişkenler büyük küçüük harfe duyarlıdır.
+Phpde büyük küçük harf önemi yoktur. Değişkenler büyük küçük harfe duyarlıdır.
 Nokta(.) birleştirme operatörüdür.
 
 ```$a=5``` ve ```$b=“5”``` ```if($a == $b)``` dersen true döner ```if($a === $b)``` dersen false döner. Int ve string karşılaştırması yapmak için === kullanarak yap.
